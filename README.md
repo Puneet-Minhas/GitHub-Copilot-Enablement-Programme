@@ -1,1 +1,27 @@
-# GitHub-Copilot-Enablement-Programme
+# GitHub Copilot Enablement Programme
+
+Welcome to the GitHub Copilot Enablement Programme! This comprehensive training series is designed to help developers master GitHub Copilot through hands-on learning and practical exercises. Each week, we'll explore different aspects of GitHub Copilot, from basic concepts to advanced techniques.
+
+## Programme Overview
+
+This programme spans multiple weeks, with each week focusing on specific GitHub Copilot features and capabilities. Participants will learn how to leverage AI-powered code assistance to boost productivity, improve code quality, and accelerate development workflows.
+
+---
+
+## Weekly Topics
+
+### Week 1: Introduction to the programme
+**Agenda:** 
+
+- Introduction to the programme
+- Copilot Chat overview
+  - @, /, # commands: Explain how these commands can be used to interact with Copilot Chat.
+
+- Advanced GHCP features
+  - **Customising Copilot responses**: Explain how users can tailor Copilot's behaviour and responses to better fit their needs. This could include setting specific guidelines for tone, style, and content.
+
+  - **Agent mode**: Describe how Agent Mode allows Copilot to take on more complex tasks autonomously, providing a more hands-off experience for users.
+
+  - **Coding agent**:  Explain the capabilities of the Coding Agent to complete tasks asynchronously.
+
+- Demo
