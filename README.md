@@ -25,3 +25,9 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
   - **Coding agent**:  Explain the capabilities of the Coding Agent to complete tasks asynchronously.
 
 - Demo
+
+### Week 2: Prompt Engineering overview
+**Agenda:** 
+- This session provides an overview of prompt engineering and how it impacts the quality and usefulness of GitHub Copilot outputs. The focus is on helping developers and technical teams understand how to communicate intent clearly to Copilot so it can generate more accurate, maintainable, and context‑aware code.
+- Q&A - we will go through any questions participants might have from last week.
+- Week 2 challenge - we will go through the details of the challenge to complete in Week 2.
