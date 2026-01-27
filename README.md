@@ -31,3 +31,10 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
 - This session provides an overview of prompt engineering and how it impacts the quality and usefulness of GitHub Copilot outputs. The focus is on helping developers and technical teams understand how to communicate intent clearly to Copilot so it can generate more accurate, maintainable, and context‑aware code.
 - Q&A - we will go through any questions participants might have from last week.
 - Week 2 challenge - we will go through the details of the challenge to complete in Week 2.
+
+### Week 3: Customising chat responses
+**Agenda:** 
+- This session provides an overview on how to customise chat responses by using custom instructions. We will look at various ways custom instructions can be specified for GitHub Copilot.
+- Q&A - we will go through any questions participants might have from last week.
+- Week 3 challenge - we will go through the details of the challenge to complete this week.
+
