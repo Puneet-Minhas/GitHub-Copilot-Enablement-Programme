@@ -38,3 +38,6 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
 - Q&A - we will go through any questions participants might have from last week.
 - Week 3 challenge - we will go through the details of the challenge to complete this week.
 
+### Week 4: Recap from previous weeks
+**Agenda:** 
+- Go through the challenges from previous weeks and take up questions.
