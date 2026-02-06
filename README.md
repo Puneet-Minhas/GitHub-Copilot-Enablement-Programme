@@ -41,3 +41,6 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
 ### Week 4: Recap from previous weeks
 **Agenda:** 
 - Go through the challenges from previous weeks and take up questions.
+
+## Learning Resources
+- [Example OctoCat Supply repo](https://github.com/Puneet-Minhas/octocat_supply_ghcp_enablement)
