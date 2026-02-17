@@ -42,5 +42,10 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
 **Agenda:** 
 - Go through the challenges from previous weeks and take up questions.
 
+### Week 5: Code Reviews and Code Quality with Copilot
+**Agenda:** 
+- We will look at how to use GitHub Copilot for code reviews and for fixing code quality issues.
+- Q&A - we will go through any questions participants might have from last week.
+  
 ## Learning Resources
 - [Example OctoCat Supply repo](https://github.com/Puneet-Minhas/octocat_supply_ghcp_enablement)
