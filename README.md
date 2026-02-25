@@ -46,6 +46,11 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
 **Agenda:** 
 - We will look at how to use GitHub Copilot for code reviews and for fixing code quality issues.
 - Q&A - we will go through any questions participants might have from last week.
+
+### Week 6: GitHub Copilot CLI overview
+**Agenda:** 
+- We will look at GitHub Copilot CLI.
+- Q&A - we will go through any questions participants might have from previous weeks.
   
 ## Learning Resources
 - [Example OctoCat Supply repo](https://github.com/Puneet-Minhas/octocat_supply_ghcp_enablement)
