@@ -51,6 +51,10 @@ This programme spans multiple weeks, with each week focusing on specific GitHub 
 **Agenda:** 
 - We will look at GitHub Copilot CLI.
 - Q&A - we will go through any questions participants might have from previous weeks.
-  
+
+### Week 7: Reflections and next steps
+**Agenda:** 
+- We will reflect on our training and enablement journey in the past 6 weeks and discuss the next steps in this journey.
+- Q&A - we will go through any questions participants might have from previous weeks.
 ## Learning Resources
 - [Example OctoCat Supply repo](https://github.com/Puneet-Minhas/octocat_supply_ghcp_enablement)
