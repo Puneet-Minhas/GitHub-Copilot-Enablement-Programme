@@ -1,0 +1,27 @@
+# This is a basic workflow to help you get started with Actions
+
+name: TestGHApp
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+ 
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  demo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/create-github-app-token@v3
+        id: app-token
+        with:
+          client-id: ${{ vars.APP_CLIENT_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+
+      - name: Call the API as the app
+        run: gh api repos/${{ github.repository }} --jq .full_name
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
